@@ -4,7 +4,6 @@ INSERT INTO marcas (nombre) VALUES ('Mercedes');
 INSERT INTO marcas (nombre) VALUES ('Audi');
 INSERT INTO marcas (nombre) VALUES ('Volswagen');
 
-
 INSERT INTO modelos (nombre,marca_id) VALUES ('127',1);
 INSERT INTO modelos (nombre,marca_id) VALUES ('Ibiza',1);
 INSERT INTO modelos (nombre,marca_id) VALUES ('Leon',1);
